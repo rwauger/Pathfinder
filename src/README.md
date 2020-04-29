@@ -1,0 +1,2 @@
+# How to Run
+In testMain there is an array that is the maze. Every 'w' is a wall, every 'e' is an empty space, 's' is the start, 'f' is the finish. The object of this program is to find the shortest route form start to finish through the spots that are empty. 
